@@ -15,4 +15,6 @@ let year = 2016;
 
 console.log( year + ' valiti ' + person + ' presidendiks.');
 
+//
+
 document.getElementById("demo").innerHTML = year + ' valiti ' + person + ' presidendiks.';
